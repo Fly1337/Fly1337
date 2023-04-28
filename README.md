@@ -1,9 +1,17 @@
-- he/him, Austria
-- Developer+ at Ragecrafter Network
-- Java/Python/C
-- SQL/MongoDB
+<body>
+  <h1>→ About Me :] </h1>
+  <h3>A Developer from Austria working for the Ragecrafter. Usually not doing public stuff and addicted to<br>Java and MongoDB</h3>
+  <h1>→ About my Work 🏠</h1>
+  <h3>Ragecrafter is a Minecraft Network from Germany. You may want to visit it if you want! My babies are the<br>Survival and an unreleased Gamemode :></h3>
+  <h1>→ My Family 👸🤴</h1>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="Filezilla" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+    </p>
+</body>
 
-<!---
-Fly1337/Fly1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
