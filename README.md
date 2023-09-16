@@ -1,6 +1,6 @@
 <body>
   <h1>→ About Me :] </h1>
-  <h3>I'm a Developer from Austria, working for the Ragecrafter Network. I'm usually not doing public stuff and I'm addicted to<br>Java and MongoDB lol</h3>
+  <h3>I'm a Developer from Austria, working for the Ragecrafter Network. I'm usually not doing public stuff and I'm addicted to Java and MongoDB lol</h3>
   
   <h1>→ About my Work</h1>
   <h3>Ragecrafter is a Minecraft Network from Germany that I work for as a hobby</h3>
