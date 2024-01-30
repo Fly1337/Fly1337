@@ -1,8 +1,8 @@
 <body>
-  <h1>ᴬᵇᵒᵘᵗ ᵐᵉ</h1>
+  <h1>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h1>
   <h3>I'm a Developer from Europe, working for the Ragecrafter Network. I'm usually not doing public stuff and I'm addicted to Java and MongoDB lol</h3>
   
-  <h1>ᴹʸ ᶠᵃᵐⁱˡʸ</h1>
+  <h1>𝙼𝚢 𝚏𝚊𝚖𝚒𝚕𝚢</h1>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
