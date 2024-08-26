@@ -1,6 +1,6 @@
 <body>
   <h1>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h1>
-  <h3>𝘐'𝘮 𝘢 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘙𝘢𝘨𝘦𝘤𝘳𝘢𝘧𝘵𝘦𝘳 𝘕𝘦𝘵𝘸𝘰𝘳𝘬. 𝘐'𝘮 𝘶𝘴𝘶𝘢𝘭𝘭𝘺 𝘯𝘰𝘵 𝘥𝘰𝘪𝘯𝘨 𝘱𝘶𝘣𝘭𝘪𝘤 𝘴𝘵𝘶𝘧𝘧 𝘢𝘯𝘥 𝘐'𝘮 𝘢𝘥𝘥𝘪𝘤𝘵𝘦𝘥 𝘵𝘰 𝘑𝘢𝘷𝘢 𝘢𝘯𝘥 𝘔𝘰𝘯𝘨𝘰𝘋𝘉</h3>
+  <h3>Hello! I'm a developer who has worked a lot on minecraft plugins with Java and MongoDB. Nowadays, I mostly contribute to AuraSkills and AuraMobs or do small private projects to help others.</h3>
   
   <h1>𝙼𝚢 𝚏𝚊𝚖𝚒𝚕𝚢</h1>
   <p align="left">
